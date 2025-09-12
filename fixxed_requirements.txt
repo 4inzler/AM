@@ -1,0 +1,11 @@
+python-dotenv
+discord.py
+Pillow
+transformers
+psutil
+langchain
+langchain-ollama
+langchain-community
+langchain-core
+langgraph
+faiss-cpu
